@@ -2,7 +2,7 @@
 Um projeto básico que fiz, ele simula uma espécie de Iphone pelo terminal.
 
 ### 🗺️ - Estrutura do Projeto em UML 
-![uml](https://raw.githubusercontent.com/VitorAuri/Projeto-Iphone-Uml/main/iphone_uml.drawio.png)
+![uml](https://raw.githubusercontent.com/VitorAuri/Projeto-Iphone-Uml/main/uml.drawio.png)
 
 - Feito pelo site da [draw.io](https://app.diagrams.net/)
 
