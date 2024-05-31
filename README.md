@@ -1,6 +1,8 @@
 ## 📱 - Projeto Iphone - Desafio DIO
 Um projeto básico que fiz, ele simula uma espécie de Iphone pelo terminal.
 
+Clique [aqui](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo) para ir até o desafio.
+
 ### 🗺️ - Estrutura do Projeto em UML 
 ![uml](https://raw.githubusercontent.com/VitorAuri/Projeto-Iphone-Uml/main/uml.drawio.png)
 
